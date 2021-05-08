@@ -1,0 +1,23 @@
+{
+  "name": "FNFE",
+  "version": "1.0.0",
+  "description": "Friday Night Funkin'(Newgrounds) in an Electron viewport",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/moogsyn/FNFE",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "moogsyn",
+  "license": "what",
+  "devDependencies": {
+    "electron": "^12.0.6"
+  }
+}
+
